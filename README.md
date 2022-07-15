@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prachurya-Ray :medal_military:
 - 👀 I’m interested in ... Tech :rocket: & Space :ringed_planet:
 - 🌱 I’m currently learning ... DApp Dev	:iphone:
-- 💞️ I’m looking to collaborate on ... Spatial Web Dev :milky_way: 
+- 💞️ I’m looking to collaborate on ... Artificial Intelligence :milky_way: 
 - 📫 How to reach me ... prachuryaray@gmail.com :globe_with_meridians:
 
 <!---
