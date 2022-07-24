@@ -11,8 +11,12 @@
 - 📫 How to reach me ... prachuryaray@gmail.com :globe_with_meridians:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Prachurya-Ray&theme=<THEME_NAME>" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=<THEME_NAME>)](https://git.io/streak-stats)
+
 <!---
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachurya-Ray&theme=<THEME_NAME>" />
+theme=dark&background=000000
 --->
 
 <!---
