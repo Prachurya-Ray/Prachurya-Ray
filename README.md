@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/CP-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3895d3)
 ![](https://img.shields.io/badge/Tech-Android-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3895d3)
 ![](https://img.shields.io/badge/Passion-AI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3895d3)
+![](https://img.shields.io/badge/Design-Blender3D-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3895d3)
 
 - 👋 Hi, I’m @Prachurya-Ray :medal_military:
 - 👀 I’m interested in ... Tech :rocket: & Space :ringed_planet:
