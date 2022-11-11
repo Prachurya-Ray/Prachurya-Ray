@@ -4,10 +4,12 @@
 ![](https://img.shields.io/badge/Tech-Android-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3895d3)
 ![](https://img.shields.io/badge/Passion-AI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3895d3)
 ![](https://img.shields.io/badge/Design-Blender3D-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3895d3)
+![](https://img.shields.io/badge/Learning-Flutter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3895d3)
+
 
 - 👋 Hi, I’m @Prachurya-Ray :medal_military:
 - 👀 I’m interested in ... Tech :rocket: & Space :ringed_planet:
-- 🌱 I’m currently learning ... Android Dev	:iphone:
+- 🌱 I’m currently learning ... Flutter Dev	:iphone:
 - 💞️ I’m looking to collaborate on ... Artificial Intelligence :milky_way: 
 - 📫 How to reach me ... prachuryaray@gmail.com :globe_with_meridians:
 
