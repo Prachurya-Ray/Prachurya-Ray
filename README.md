@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Competitive_Programming-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FE04C5)
 ![](https://img.shields.io/badge/Technology-Android-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3895d3)
-![](https://img.shields.io/badge/Passion-Artificial_Intelligence-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=04FE17)
+![](https://img.shields.io/badge/Passion-Artificial_Intelligence-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=49FE4C)
 ![](https://img.shields.io/badge/Design-Blender3D-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F2FE04)
 ![](https://img.shields.io/badge/Learning-Flutter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FEB204)
 ![](https://img.shields.io/badge/University-KIIT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FE0404)
