@@ -42,6 +42,8 @@
 
 <hr>
 
+[![Prachurya-Ray's GitHub | Stats](https://stats.quine.sh/Prachurya-Ray/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Prachurya-Ray)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachurya-ray" alt="prachurya-ray" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachurya-ray&show_icons=true&locale=en&layout=compact" alt="prachurya-ray" /></p>
@@ -49,6 +51,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Prachurya-Ray&theme=<THEME_NAME>" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachurya-ray&" alt="prachurya-ray" /></p>
+
+[![Prachurya-Ray's GitHub | Languages Over Time](https://stats.quine.sh/Prachurya-Ray/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Prachurya-Ray)
 
 <!---
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachurya-Ray&theme=<THEME_NAME>" />
