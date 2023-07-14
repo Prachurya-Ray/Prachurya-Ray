@@ -1,5 +1,5 @@
 <h1 align="center"><i>Hi,</i> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <i> I'm </i> Prachurya Ray </h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="center"> <a href="https://twitter.com/prachuryaray" target="blank"><img src="https://img.shields.io/twitter/follow/prachuryaray?logo=twitter&style=for-the-badge" alt="prachuryaray" /></a> </p>
 
