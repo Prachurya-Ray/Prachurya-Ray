@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Passion-Artificial_Intelligence-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=42FF46)
 ![](https://img.shields.io/badge/Design-Blender3D-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F2FE04)
 ![](https://img.shields.io/badge/Learning-Data_Science-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FEB204)
-![](https://img.shields.io/badge/University-KIIT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FE0404)
+![](https://img.shields.io/badge/University-K.I.I.T.-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FE0404)
 
 
 <hr>
